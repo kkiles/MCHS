@@ -1,0 +1,12 @@
+.general {
+    position: fixed;
+    top: 20%;
+    left: 29%;
+    background-color: rgba(238, 240, 239, 1);
+    width: 878px;
+    height: 585px;
+}
+@font-face {
+	font-family: 'Tauri'; 
+	src: url(/src/fonts/Tauri-Regular.ttf); 
+}
